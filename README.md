@@ -2,15 +2,6 @@
 
 This project involves conducting Exploratory Data Analysis on a dataset containing information about music tracks from Spotify.
 
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Project Steps](#project-steps)
-  - [1. Data Import and Initial Exploration](#1-data-import-and-initial-exploration)
-  - [2. Data Cleaning and Preprocessing](#2-data-cleaning-and-preprocessing)
-  - [3. Data Transformation and Manipulation](#3-data-transformation-and-manipulation)
-  - [4. Data Analysis and Visualization](#4-data-analysis-and-visualization)
-
 ## Introduction
 
 In this project, I have performed various data analysis tasks on a dataset that provides information about music tracks available on Spotify.
